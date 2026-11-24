@@ -1,6 +1,6 @@
 # Hi, I'm Chandrika
 
-M.Sc. Embedded Systems Engineering, University of Freiburg. I build ML systems that run on real data, from a defect detector on a live production line to an agentic assistant that a clinician approves.
+Experienced ML & software engineer. M.Sc. Embedded Systems Engineering graduate from University of Freiburg.
 
 ### Featured work
 
